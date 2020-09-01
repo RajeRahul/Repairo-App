@@ -1,0 +1,159 @@
+
+/* CUSTOMER SIDE */
+
+/* Navigation Bar */
+
+.navbar-brand {
+  padding-left: 30px;
+  padding-right: 20px;
+  font-size: 30px;
+  font-family: 'Lobster', cursive;
+}
+.nav-item {
+  font-family: 'Alata', sans-serif;
+}
+
+/* Home Page */
+
+.repairmen-img {
+  display: block;
+  margin: 0 auto;
+}
+.home-text {
+  text-align: center;
+}
+.headline {
+  font-family: 'Lobster', cursive;
+  font-size: 60px;
+  margin-top: 30px;
+}
+.tagline {
+  font-family: 'Alata', sans-serif;
+  margin-bottom: 10px;
+}
+.btn-xl {
+    padding: 10px 30px;
+    font-size: 27px;
+    border-radius: 10px;
+    font-family: 'Alata', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 45px;
+}
+.top-fifteen-div {
+  background-color: #F2A752;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+}
+.repairmen-heading {
+  font-family: 'Alata', sans-serif;
+  color: #ffffff;
+}
+.home-page-cards {
+  height: 370px;
+  width: 180px;
+  margin-left: 10px;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+.card-text {
+  margin: 0;
+}
+.card-title {
+  margin-bottom: 5px;
+  font-size: 15px;
+}
+.repairmen-container {
+  margin-left: 190px;
+  margin-right: 190px;
+  padding-left: 100px;
+}
+.container-fluid {
+  background-color: #F2A752;
+  padding-top:2%;
+  padding-bottom: 2%;
+  margin-top: 20px;
+}
+.footer_text {
+  margin-bottom: 0;
+}
+
+/* Search Repairmen Page */
+.search-heading {
+  margin-top: 40px;
+  font-family: 'Alata', sans-serif;
+  color: #515656;
+}
+.types-container {
+  margin-top: 50px;
+  margin-left: 7%;
+}
+.locations-container {
+  margin-top: 50px;
+  margin-left: 7%;
+}
+input.search-checkbox {
+  margin-top: 10px;
+  height: 25px;
+  width: 25px;
+}
+.checkbox-label {
+  font-family: 'Alata', sans-serif;
+  font-size: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+/* Results Page */
+.result-heading {
+  margin-top: 30px;
+  font-family: 'Alata', sans-serif;
+  color: #515656;
+}
+.table {
+  margin-top: 30px;
+  font-family: 'Alata', sans-serif;
+}
+.custom-container {
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+/* Service page */
+.service-heading {
+  margin-top: 20px;
+  font-family: 'Alata', sans-serif;
+  color: #515656;
+}
+.column1 {
+  padding-left: 70px;
+  width: 50%;
+}
+.column2 {
+  padding-right: 0;
+  width: 50%;
+}
+.service-form {
+  font-family: 'Alata', sans-serif;
+  margin-top: 40px;
+}
+
+
+/* ADMIN SIDE */
+
+/* admin home page */
+
+.admin-btn {
+  margin-right: 20px;
+}
+
+/* repairmen list */
+.add-btn {
+  margin-top: 20px;
+}
+
+/* editrepairman page */
+.edit-form-container {
+  margin-top: 30px;
+  font-family: 'Alata', sans-serif;
+}

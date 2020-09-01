@@ -1,0 +1,34 @@
+id,first_name,last_name,occupation,location,base_price,skills,Rating
+1,Mahendra,Sant,Mechanic,Bavdhan|Kothrud|Warje,1800,vehicle servicing|vehicle customisation|engine repair,9.8
+2,Ayaan ,Sem,Mechanic,Kothrud|Deccan|Shivaji-Nagar,1500,vehicle servicing|vehicle customisation|engine repair,9.8
+3,Ajit,Saini,Electrician,Bavdhan|Kothrud|Warje,700,appliance installation|appliance repair|home insulation|rewire faulty systems,9.5
+4,Abhiram ,Kapre,Carpenter,Camp|Aundh|Koregaon-Park,2000,custom furniture build|install foundations|fix windows/tables/doors,9.2
+5,Prasad,Chandra,Plumber,Hinjawadi|Dhayari|Hadapsar,1000,install pipes/sinks/toilets|fix leakages|repair washing machines,9
+6,Anit,Arora,Painter,Sadashiv-Peth|Narayan-Peth|Kothrud,3000,cracks filling with putty|aesthetic sense|paint desirable designs,8.8
+7,Shashi,Batra,Plumber,Vadgaon|Ambegaon|Dhanukar,800,install pipes/sinks/toilets|fix leakages|repair washing machines,8.5
+8,Kanishik,Malhotra,Carpenter,Shivaji-Nagar|Camp|Aundh,1000,custom furniture build|install foundations|fix windows/tables/doors,8.2
+9,Vipul,Mutti,Plumber,Hinjawadi|Dhayari|Hadapsar,700,install heaters/boilers|install water supply lines|fix leakages,7.8
+10,Kailash,Dugar,Electrician,Vadgaon|Ambegaon|Dhanukar,600,appliance installation|appliance repair|home insulation|rewire faulty systems,7.5
+11,Abhilash,Prabhu,Painter,Vadgaon|Ambegaon|Dhanukar,2500,cracks filling with putty|aesthetic sense|paint desirable designs,7.2
+12,Karan,Mann,Mechanic,Hinjawadi|Dhayari|Hadapsar,1200,engine repair|vehicle servicing|vehicle customisation|motor repair,7
+13,Vipul,Ram,Electrician,Camp|Aundh|Koregaon-Park,700,appliance installation|appliance repair|home insulation|rewire faulty systems,6.8
+14,Tushar,Bharadwaj,Carpenter,Vadgaon|Ambegaon|Dhanukar,1500,fix windows/tables/doors|install or fix tiles|furniture repair,6.5
+15,Jai,Mall,Painter,Deccan|Shivaji-Nagar|Aundh,2200,paint desirable designs|paint portraits or pictures|decorative finishing,6.2
+16,Niranjan,Gopal,Plumber,Deccan|Shivaji-Nagar|Aundh,900,fix leakages|install heaters/boilers|install water supply lines|fix leakages,6.2
+17,Sarthak,Sidhu,Carpenter,Sadashiv-Peth|Narayan-Peth|Kothrud,1500,custom furniture build|furniture repair|fix windows/tables/doors|,6.5
+18,Chandrakant,Malhotra,Mechanic,Vadgaon|Ambegaon|Dhanukar,1000,vehicle servicing|battery replacement|wiring repair,8.5
+19,Anand,Shankar,Electrician,Hinjawadi|Dhayari|Hadapsar,800,appliance repair|appliance installation|home insulation|rewire faulty systems,7.2
+20,Nirmal,Chanda,Plumber,Bavdhan|Kothrud|Warje,900,install pipes/sinks/toilets|fix leakages|repair washing machines,7.4
+21,Sathwik,Loyal,Painter,Hinjawadi|Dhayari|Hadapsar,1500,aesthetic sense|paint desirable designs|cracks filling with putty,7.5
+22,Suman,Kaul,Electrician,Sadashiv-Peth|Narayan-Peth|Deccan,600,rewire faulty systems|home insulation|appliance repair,6.7
+23,Chetan,Pandit,Plumber,Vadgaon|Ambegaon|Dhanukar,1200,fix leakages|install heaters/boilers|install water supply lines|fix leakages,8.8
+24,Aarav,Kapoor,Carpenter,Bavdhan|Kothrud|Warje,1500,install or fix tiles|fix windows/tables/doors|furniture repair,9.2
+25,Sharma,Bail,Mechanic,Sadashiv-Peth|Narayan-Peth,1000,vehicle customisation|engine repair|wiring repair|vehicle servicing,8.5
+26,Arjun,Choudhary,Mechanic,Camp|Aundh|Koregaon-Park,800,engine repair|vehicle servicing|vehicle customisation|motor repair,7.4
+27,Ravi,Nagi,Painter,Bavdhan|Kothrud|Warje,2000,cracks filling with putty|aesthetic sense|paint desirable designs,7.7
+28,Sushil,Raval,Electrician,Deccan|Shivaji-Nagar|Aundh,600,rewire faulty systems|home insulation|appliance repair,8.9
+29,Jagan,Chana,Carpenter,Hinjawadi|Dhayari|Hadapsar,1200,install foundations|furniture repair|custom furniture build,8.9
+30,Ishaan,Cheema,Carpenter,Deccan|Shivaji-Nagar|Aundh,1100,install or fix tiles|fix windows/tables/doors|furniture repair,8.2
+31,Sudarshan,Tiwari,Plumber,Sadashiv-Peth|Narayan-Peth|Koregaon-Park,1200,install pipes/sinks/toilets|fix leakages|repair washing machines,7.8
+32,Mahendra,Mani,Plumber,Camp|Aundh|Koregaon-Park,1300,repair washing machines|install heaters/boilers|install water supply lines,9.1
+33,Jai,Pradhan,Painter,Camp|Aundh|Koregaon-Park,2200,decorative finishing|aesthetic sense|cracks filling with putty|paint desirable designs,9.2
